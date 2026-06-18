@@ -1,0 +1,44 @@
+# === 演示视频 / 录屏（体积大，勿提交）===
+*.mp4
+*.mov
+*.avi
+*.mkv
+6月*.mp4
+
+TensorRT-*.tar.gz
+main.zip
+reference.zip
+unitree_lfs/
+
+# === Unity 缓存与构建（体积大，本地自动生成）===
+**/Library/
+**/Builds/
+**/Temp/
+**/Logs/
+**/obj/
+**/UserSettings/
+
+# === 录制数据（体积大；需要演示可自行录一条小文件）===
+sonic-bridge/recordings/*.jsonl
+!sonic-bridge/recordings/.gitkeep
+
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.venv_*/
+*.egg-info/
+*.log
+MUJOCO_LOG.TXT
+
+# === 旧工程 / IDE / 工具缓存 ===
+quest-mirror-unity-old/
+**/.codely-cli/
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# === 可选 PDF（若不想进仓库可取消下一行注释）===
+# VR proj.pdf

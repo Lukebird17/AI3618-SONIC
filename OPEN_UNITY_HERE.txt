@@ -1,0 +1,13 @@
+Unity v2 工程 — 请打开：
+
+  Windows: C:\File\vr\quest-mujoco-vr\quest mujoco vr
+  WSL:     ~/vr/quest-mujoco-vr/quest mujoco vr
+
+菜单: Sonic MuJoCo VR → 1) Build Scene (v2)
+
+旧版（已弃用）: ~/vr/quest-mirror-unity/  见 DEPRECATED_OLD.md
+
+文档: vr/docs/UNITY_V2_SETUP.md
+      vr/docs/COORDINATE_SYSTEMS.md
+
+同步: ~/vr/scripts/sync_unity_v2_to_windows.sh
