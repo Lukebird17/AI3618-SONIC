@@ -1,4 +1,3 @@
-```markdown
 # AI3618-SONIC — 虚拟现实课程大作业
 
 > **基于Meta Quest 3的SONIC人形机器人遥操系统复现与增强**
